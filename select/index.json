@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Video Killed The Radio Star (Official Music Video)",
+  "base_artist": "The Buggles",
+  "createdAt": "2026-03-28T10:20:47.320966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Video Games",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Video_Games_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Video Violence",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/02_Video_Violence_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Video Girl",
+      "artist": "Stacey Q",
+      "has_synced": true,
+      "path": "select/03_Video_Girl_Stacey_Q.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Video Killed The Radio Star",
+      "artist": "The Buggles",
+      "has_synced": true,
+      "path": "select/04_Video_Killed_The_Radio_Star_The_Buggles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Is Full of Love (Video Version)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_All_Is_Full_of_Love_(Video_Version)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Wonder (Censored Video Edit)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Little_Wonder_(Censored_Video_Edit)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Video Games - Joy Orbison Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/07_Video_Games_-_Joy_Orbison_Remix_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Video Games (Omid 16b Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Video_Games_(Omid_16b_Remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Video Games (Rainer Weichhold & Nick Olivetti clubmix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/09_Video_Games_(Rainer_Weichhold_&_Nick_Olivetti_clubmix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "House of Cards (Promo Video Version)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_House_of_Cards_(Promo_Video_Version)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flashback (Video Mix)",
+      "artist": "Laurent Garnier",
+      "has_synced": false,
+      "path": "select/11_Flashback_(Video_Mix)_Laurent_Garnier.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nothing Compares 2 U (live video version)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/12_Nothing_Compares_2_U_(live_video_version)_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothing Compares 2 U (Live Video Version)",
+      "artist": "Sinead O'Connor",
+      "has_synced": true,
+      "path": "select/13_Nothing_Compares_2_U_(Live_Video_Version)_Sinead_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Halloween (Video Edit)",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/14_Halloween_(Video_Edit)_Helloween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Videotheque",
+      "artist": "The Buggles",
+      "has_synced": false,
+      "path": "select/pl_01_Videotheque_The_Buggles.txt"
+    }
+  ]
+}
